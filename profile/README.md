@@ -11,7 +11,7 @@ Stratosphere was founded in 2013 by Sebastian Garcia. Since then, our group has 
 One of our flagship contributions to the community is our cybersecurity datasets of malware network traffic. Here are some of our datasets that we love most:
 
 - 🖥️ [CTU-13: a labeled dataset with botnet, normal and background traffic](https://www.stratosphereips.org/datasets-ctu13)
-- 📱 [Android Mischief Dataset: a dataset of network traffic from mobile phones infected with Android Remote Access Trojans (RATs)](https://www.stratosphereips.org/android-mischief-dataset)
+- 📱 [Android Mischief Dataset: a dataset of network traffic from mobile phones infected with Android Remote Access Trojans](https://www.stratosphereips.org/android-mischief-dataset)
 - 💡 [IoT-23: a labeled dataset with malicious and benign IoT network traffic](https://www.stratosphereips.org/datasets-iot23)
 
 ## Our Projects

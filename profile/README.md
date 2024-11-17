@@ -15,7 +15,7 @@ One of our flagship contributions to the community is our cybersecurity datasets
 - 💡 [IoT-23: a labeled dataset with malicious and benign IoT network traffic](https://www.stratosphereips.org/datasets-iot23)
 - 🦠 [CTU-SME-11: a labeled dataset with real benign and malicious network traffic mimicking a SME enterprise environment](https://zenodo.org/records/7958259)
 - 🍯 [CTU Hornet 65 Niner: A Network Dataset of Geographically Distributed Low-Interaction Honeypots](https://zenodo.org/records/13920267)
-- 
+ 
 ## Our Projects
 
 Here are some of our projects that we love most:
